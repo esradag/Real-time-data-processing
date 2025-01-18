@@ -1,0 +1,5 @@
+kafka-python
+requests
+pyspark
+psycopg2-binary
+apache-airflow
